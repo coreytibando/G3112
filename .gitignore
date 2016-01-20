@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/G3112_410/Build/Receipts
+/G3112_410/Intermediate
+/G3112_410/Saved
+/G3112_410/G3112_410.sdf
+/G3112_410/G3112_410.VC.opendb
